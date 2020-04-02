@@ -1,0 +1,178 @@
+
+.header{
+	
+	background-color: #000040;
+	padding:1% 10%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-style: none;
+	border-radius: 0%;
+	margin-bottom: 0%;
+
+}
+
+
+div.topcontactbar{
+	background-color: #ff7e00;
+	color:#000040;
+	padding: 0.75% 10%;
+	/*align-content:center;*/
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+}
+div.menucontact{
+
+}
+
+img.socialicons{
+	width:19.5px;
+	height:17.55px;
+
+
+	/*margin-right:6px;*/
+	
+}
+div.socialmedia{
+	
+	display:flex;
+	flex-direction:row;
+	color: #000040;
+
+}
+
+.construction{
+	font-family: Arial; 
+	font-size: 35px; 
+	text-transform: uppercase; 
+	font-weight: bolder;
+	font-style:italic;
+/*	border-style: solid;
+	border-color: green;
+	background-color: red;*/
+}
+nav.mainmenu{
+
+}
+ 
+ul.mainmenu{
+	/*display: inline;*/
+	/*color: #ff7e00;*/
+	/*background-color: green;*/
+	display: flex;
+	justify-content: flex-end;
+	/*border-style: solid;
+	border-color: purple;*/
+
+}
+
+li.mainmenu{
+	margin-right: 30px;
+	font-family: Arial;
+	/*border-style: solid;
+	border-color: green;*/
+	list-style: none;
+
+}
+
+div.section-one{
+
+	padding: 0% 10%;
+	
+	/*background-color: green;*/
+	
+	height:80vh;
+	border-style: solid;
+	border-color: green;
+	background-image:url(section-one.png);
+
+
+}
+
+img.welcomeimage{
+	/*display: inline;
+	float: right;*/
+
+}
+
+h2.welcomehead{
+	font-family: Arial; 
+	font-size: 28px; 
+	text-transform: uppercase; 
+	color:#ff7e00;
+	font-weight: bolder;
+}
+.wlcm-msg{
+	padding-top:5%;
+}
+
+div.sectiontwo{
+	padding: 0% 10%;
+	display: flex;
+	justify-content: 
+	space-between;
+	flex-wrap: wrap;
+}
+
+
+p.welcome{
+	text-align: justify;
+	font-family: Arial;
+	font-size: 18px;
+}
+
+.img{
+	align-content: center;
+}
+
+div.sectionthree{
+	padding: 3% 10%;
+	background-color: #f2f7fb;
+}
+div.flex-box{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding-top: 4%;
+}
+div.flex-box div{
+	width: 18%;	
+}
+div.flex-box div h4{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-family: Arial;
+	font-weight: bolder;
+}
+
+div.flex-box div p{
+	text-align: justify;
+	padding: 2%;
+}
+h2.sectionthree{
+	font-family: Arial ;
+	font-weight: bolder;
+	font-size: 28px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p.sectionthree{
+	 text-align: center;
+	 /* font-size: 20px; */
+}
+.subheading{
+	font-weight: bolder;
+	color: black;
+	font-size: 21px;
+	margin-bottom:0% 0% 5% 0%;
+	font-family: Arial, Helvetica, sans-serif;
+		
+}
+
+.enclose{
+	padding: 0px 0px;
+}
